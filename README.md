@@ -4,6 +4,8 @@
 ![DAX](https://img.shields.io/badge/DAX-00617F?style=for-the-badge&logo=microsoft)
 ![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 
+![Dashboard](dashboard-gestao-frotas.png)
+
 ## 📌 Visão Geral do Projeto
 Este repositório contém a solução desenvolvida para o Business Case da **UAI Entregas**, empresa de logística sediada em Uberlândia-MG. O objetivo do projeto foi criar um dashboard estratégico que permitisse ao gestor de frotas monitorar a saúde financeira da operação e a eficiência dos ativos.
 
